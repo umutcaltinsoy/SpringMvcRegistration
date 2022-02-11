@@ -93,6 +93,6 @@
 
 ```
 
-* [Github](https://maven.apache.org/guides/index.html)
+* [Github](https://github.com/umutcaltinsoy/SpringMvcRegistration)
 
 
